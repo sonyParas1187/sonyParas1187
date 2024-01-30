@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in ..working with Data .......Data migration !!!!!!!!Data analysis!!! Data modernisation!!!!! Data Integration
 
-- - 🌱 I’m currently learning ...solution architect
+- - 🌱 Implements processes and systems to monitor data quality, ensuring production data is always accurate and available for key stakeholders and business processes that depend on it. Writes unit/integration tests, contributes to engineering wiki, and documents work
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
